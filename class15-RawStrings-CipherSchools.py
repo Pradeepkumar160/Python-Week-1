@@ -1,3 +1,3 @@
-#the code we get was U+1F604 instead of 1 we will write 000 and we will add a backslash also .	
-print("\U0001F604")
-print("\U0001F92B")
+#in class 13 we learn how to write escape sequence as normal text 
+#there is another method of it :
+print(r"line A \n line B")
